@@ -1062,6 +1062,7 @@ var cnames_active = {
   "hgs-quotes": "hgs-quotes.loseyourip.com",
   "hibiki": "claritymoe.github.io/hibiki",
   "hickacou": "hickacou.github.io",
+  "hitung": "munajatibnu.github.io",
   "hifun": "cname.vercel-dns.com",
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
